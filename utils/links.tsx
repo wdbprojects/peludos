@@ -1,5 +1,5 @@
-import { ChartSpline, CirclePlus, Dog, House } from "lucide-react";
 import { ReactNode } from "react";
+import { ChartSpline, CirclePlus, Dog, House } from "lucide-react";
 
 type NavLink = {
   id: number;
